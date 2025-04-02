@@ -1,1 +1,1 @@
-//we are in js -- from
+//we are in js.
